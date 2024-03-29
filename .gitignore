@@ -161,3 +161,4 @@ cython_debug/
 CollectedImages
 yolov5
 notebook
+artifacts
