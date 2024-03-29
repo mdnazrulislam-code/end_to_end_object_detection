@@ -78,3 +78,4 @@ class DataIngestion:
 
         except Exception as e:
             raise SignException(e, sys)
+
